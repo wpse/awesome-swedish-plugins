@@ -1,0 +1,27 @@
+# awesome-swedish-plugins
+
+> Work In Progress
+
+A hand-picked bookmark collection of subjectively modern/interesting plugins for WordPress by Swedish people.
+
+* [Awesome Swedish plugins](#awesome-swedish-plugins)
+  * [Custom fields](#custom-fields)
+  * [Content management](#content-management)
+  * [Security](#security)
+
+## Custom fields
+
+* [Advanced Custom Fields: Fold Flexible Content](http://wordpress.org/plugins/acf-fold-flexible-content/) - A simple plugin for enhancing the Advanced Custom Fields Flexible Content Field. Collapsed flexible content panels and showing icons representing each field type. - By [Urban Sandén](https://twitter.com/urre)
+* [Advanced Custom Fields: Sites Field](https://wordpress.org/plugins/advanced-custom-fields-sites-field/) -  Adds a `Sites` field type for the Advanced Custom fields WordPress plugin. By [Jonathan de Jong](https://profiles.wordpress.org/jonathandejong)
+* [Papi](https://wp-papi.github.io/) - Add custom fields and a better page type way of thinking to WordPress. - By [Fredrik Forsmo](https://twitter.com/frozzare)
+* [Simple Fields](https://wordpress.org/plugins/simple-fields/) - A Powerful Custom Fields Plugin for WordPress that enables you to add any type of fields to your posts and pages. - By [Pär Thernström](https://profiles.wordpress.org/eskapism/) and [Angry Creative](https://angrycreative.se)
+
+## Content management
+
+* [Article List Manager](https://github.com/victorjonsson/Arlima) - Wordpress plugin suitable for online newspapers that's in need of a fully customizable front page. By [Christoffer Larsson](https://twitter.com/chredd), [Robert Sundelin](Robert Sundelin) and [Victor Jonsson](https://twitter.com/victor_jonsson)
+* [Beautiful Taxonomy Filters](https://wordpress.org/plugins/beautiful-taxonomy-filters/) -  Supercharge your custom post type archives by letting visitors filter posts by their terms/categories. This plugin handles the whole thing for you!. By [Jonathan de Jong](https://profiles.wordpress.org/jonathandejong)
+
+## Security
+
+* [Simple History](https://wordpress.org/plugins/simple-history/) - View changes made by users within WordPress. See who created a page, uploaded an attachment or approved an comment, and more. - By [Pär Thernström](https://profiles.wordpress.org/eskapism/)
+* [User Mail Notification](https://wordpress.org/plugins/user-mail-notifications/) -  Sends an email to all users in a specific role when a new post has been made. By [Jonathan de Jong](https://profiles.wordpress.org/jonathandejong)
