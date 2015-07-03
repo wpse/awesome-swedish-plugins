@@ -9,6 +9,7 @@ Add your own (or someone elses) plugin by creating a Pull Request! Don't forget 
   * [Custom fields](#custom-fields)
   * [Content management](#content-management)
   * [Security](#security)
+  * [Miscellaneous](#miscellaneous)
 
 ## Custom fields
 
