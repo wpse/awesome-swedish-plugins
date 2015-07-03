@@ -2,9 +2,10 @@
 
 > Work In Progress
 
-A hand-picked bookmark collection of subjectively modern/interesting plugins for WordPress by Swedish people.
+A hand-picked bookmark collection of subjectively modern/interesting plugins for WordPress by Swedish people. 
+Add your own (or someone elses) plugin by creating a Pull Request! Don't forget to check the [Contribution Guidelines](https://github.com/wpse/awesome-swedish-plugins/blob/master/CONTRIBUTING.md) first.
 
-* [Awesome Swedish plugins](#awesome-swedish-plugins)
+* [Categories](#awesome-swedish-plugins)
   * [Custom fields](#custom-fields)
   * [Content management](#content-management)
   * [Security](#security)
