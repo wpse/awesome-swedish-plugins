@@ -1,4 +1,4 @@
-# awesome-swedish-plugins
+# Awesome Swedish Plugins
 
 > Work In Progress
 
@@ -20,8 +20,15 @@ A hand-picked bookmark collection of subjectively modern/interesting plugins for
 
 * [Article List Manager](https://github.com/victorjonsson/Arlima) - Wordpress plugin suitable for online newspapers that's in need of a fully customizable front page. By [Christoffer Larsson](https://twitter.com/chredd), [Robert Sundelin](Robert Sundelin) and [Victor Jonsson](https://twitter.com/victor_jonsson)
 * [Beautiful Taxonomy Filters](https://wordpress.org/plugins/beautiful-taxonomy-filters/) -  Supercharge your custom post type archives by letting visitors filter posts by their terms/categories. This plugin handles the whole thing for you!. By [Jonathan de Jong](https://profiles.wordpress.org/jonathandejong)
+* [WP Users Media](https://wordpress.org/plugins/wp-users-media/) -   WP Users Media is a WordPress plugin that displays only the current users media files and attachments in WP Admin. By [Damir Calusic](https://profiles.wordpress.org/webkreativ/) and [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
 
 ## Security
 
 * [Simple History](https://wordpress.org/plugins/simple-history/) - View changes made by users within WordPress. See who created a page, uploaded an attachment or approved an comment, and more. - By [Pär Thernström](https://profiles.wordpress.org/eskapism/)
 * [User Mail Notification](https://wordpress.org/plugins/user-mail-notifications/) -  Sends an email to all users in a specific role when a new post has been made. By [Jonathan de Jong](https://profiles.wordpress.org/jonathandejong)
+
+## Miscellaneous
+
+* [English WordPress Admin](https://wordpress.org/plugins/english-wp-admin/) -  Lets admin users change their administration language to English.  - By [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
+* [WordPress Instant Articles](https://wordpress.org/plugins/instant-articles/) -  Add a speed boost to your site by utilizing HTML5 technologies like DNS prefetching and page pre-rendering.  - By [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
+* [Thumbnail Upscale](https://wordpress.org/plugins/thumbnail-upscale/) - Enables upscaling of thumbnails for small media attachments .  - By [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
