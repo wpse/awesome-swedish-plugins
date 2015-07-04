@@ -7,6 +7,7 @@ Add your own (or someone elses) plugin by creating a Pull Request! Don't forget 
   * [Custom fields](#custom-fields)
   * [Content management](#content-management)
   * [Security](#security)
+  * [WooCommerce](#woocommerce)
   * [Miscellaneous](#miscellaneous)
 
 ## Custom fields
@@ -26,6 +27,9 @@ Add your own (or someone elses) plugin by creating a Pull Request! Don't forget 
 
 * [Simple History](https://wordpress.org/plugins/simple-history/) - View changes made by users within WordPress. See who created a page, uploaded an attachment or approved an comment, and more. - By [Pär Thernström](https://profiles.wordpress.org/eskapism/)
 * [User Mail Notification](https://wordpress.org/plugins/user-mail-notifications/) -  Sends an email to all users in a specific role when a new post has been made. By [Jonathan de Jong](https://profiles.wordpress.org/jonathandejong)
+
+## WooCommerce
+* [WooCommerce Pricefiles](https://wordpress.org/plugins/woocommerce-pricefiles/) - Generate pricefiles for listing your WooCommerce products on Prisjakt/PriceSpy and Pricerunner. - By [Peter Elmered](https://profiles.wordpress.org/pekz0r)
 
 ## Miscellaneous
 
