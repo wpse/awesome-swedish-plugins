@@ -35,4 +35,5 @@ Add your own (or someone elses) plugin by creating a Pull Request! Don't forget 
 
 * [English WordPress Admin](https://wordpress.org/plugins/english-wp-admin/) -  Lets admin users change their administration language to English.  - By [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
 * [WordPress Instant Articles](https://wordpress.org/plugins/instant-articles/) -  Add a speed boost to your site by utilizing HTML5 technologies like DNS prefetching and page pre-rendering.  - By [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
-* [Thumbnail Upscale](https://wordpress.org/plugins/thumbnail-upscale/) - Enables upscaling of thumbnails for small media attachments .  - By [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
+* [Thumbnail Upscale](https://wordpress.org/plugins/thumbnail-upscale/) - Enables upscaling of thumbnails for small media attachments.  - By [Stanislav Khromov](https://profiles.wordpress.org/khromov/)
+* [Angry Creative Inspector](https://wordpress.org/plugins/angry-creative-logger/) -  Inspects and logs possible issues with your WordPress installation.  - By [Angry Creative](https://angrycreative.se/)
