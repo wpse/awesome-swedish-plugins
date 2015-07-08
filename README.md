@@ -29,7 +29,7 @@ Add your own (or someone elses) plugin by creating a Pull Request! Don't forget 
 * [User Mail Notification](https://wordpress.org/plugins/user-mail-notifications/) -  Sends an email to all users in a specific role when a new post has been made. By [Jonathan de Jong](https://profiles.wordpress.org/jonathandejong)
 
 ## WooCommerce
-* [WooCommerce Pricefiles](https://wordpress.org/plugins/woocommerce-pricefiles/) - Generate pricefiles for listing your WooCommerce products on Prisjakt/PriceSpy and Pricerunner. - By [Peter Elmered](https://profiles.wordpress.org/pekz0r)
+* [WooCommerce Pricefiles](https://wordpress.org/plugins/woocommerce-pricefiles/) - Generate pricefiles for listing your WooCommerce products on Prisjakt/PriceSpy and Pricerunner. - By [Peter Elmered](https://profiles.wordpress.org/pekz0r) - [[Contribute]](https://github.com/pelmered/WooCommerce-Pricefiles)
 
 ## Miscellaneous
 
